@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "17221955405",
+    "project_id": "ec-disney",
+    "storage_bucket": "ec-disney.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17221955405:android:24db9544ac6880d0659104",
+        "android_client_info": {
+          "package_name": "com.miguel.disney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17221955405-hih320lrm0nokg7urp4goemrh8qbum0t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.miguel.disney",
+            "certificate_hash": "646acd1f1b6c16ac82069452095a425adba96f30"
+          }
+        },
+        {
+          "client_id": "17221955405-ja4niu5pi8oekcj5vo4c7g9scpbq93m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1nPjIz6JK7e17pWlnFcLPYfJdy4dvj-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17221955405-ja4niu5pi8oekcj5vo4c7g9scpbq93m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

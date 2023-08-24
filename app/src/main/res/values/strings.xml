@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EC_Disney</string>
+    <string name="nombre">Disney</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="web_client_id">101168576716004081038</string>
+</resources>
